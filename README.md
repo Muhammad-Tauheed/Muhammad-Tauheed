@@ -27,40 +27,49 @@ I actively focus on clean architecture, performance optimization, and security b
 ## Technology Stack
 
 ### Languages
-- JavaScript (ES6+)
-- TypeScript
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-323330?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript" />
+</p>
 
 ### Frontend
-- React
-- Next.js
-- Redux
-- Tailwind CSS
-- Bootstrap
-- MUI
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui" />
+</p>
 
 ### Backend
-- Node.js
-- NestJS
-- Express.js
-- REST APIs
-- Axios
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios" />
+</p>
 
 ### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
+</p>
 
-### Cloud & Services
-- Firebase
-- AWS
-- Vercel
+### Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" />
+</p>
 
-### Tools & DevOps
-- Git
-- GitHub
-- GitLab
-- Jest
-- Postman
 
 ---
 
