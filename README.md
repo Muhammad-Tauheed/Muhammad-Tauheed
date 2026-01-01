@@ -83,22 +83,12 @@ I actively focus on clean architecture, performance optimization, and security b
 
 ---
 
-## GitHub Activity Overview
+## GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tauheed&show_icons=true&hide_border=true&theme=dark&cache_seconds=86400"
-    height="150"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tauheed&layout=compact&hide_border=true&theme=dark"
-    height="150"
-  />
-</p>
-
+- Actively building backend-focused MERN and PERN stack applications  
+- Regularly working with Node.js, NestJS, PostgreSQL, and MongoDB  
+- Focused on clean architecture, API design, and production-ready systems  
+- Continuous improvement through real-world project development
 
 ---
 
@@ -110,5 +100,6 @@ I actively focus on clean architecture, performance optimization, and security b
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Muhammad-Tauheed&color=0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tauheed&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
+
