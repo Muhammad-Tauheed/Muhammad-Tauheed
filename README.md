@@ -86,13 +86,19 @@ I actively focus on clean architecture, performance optimization, and security b
 ## GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tauheed&show_icons=true&hide_border=true&theme=dark" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Tauheed&hide_border=true&theme=dark" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tauheed&show_icons=true&hide_border=true&theme=dark&cache_seconds=86400"
+    height="150"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tauheed&layout=compact&hide_border=true&theme=dark" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tauheed&layout=compact&hide_border=true&theme=dark"
+    height="150"
+  />
 </p>
+
 
 ---
 
