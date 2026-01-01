@@ -34,6 +34,8 @@ I actively focus on clean architecture, performance optimization, and security b
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux" />
@@ -41,6 +43,7 @@ I actively focus on clean architecture, performance optimization, and security b
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui" />
 </p>
+
 
 ### Backend
 <p>
