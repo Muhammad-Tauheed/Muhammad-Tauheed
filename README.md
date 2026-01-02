@@ -86,14 +86,6 @@ I actively focus on clean architecture, performance optimization, and security b
 
 ---
 
-## GitHub Activity Overview
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Tauheed&hide_border=true&theme=dark" height="150"/>
-</p>
-
----
-
 ## Contact
 
 - Email: mtdeveloper004@gmail.com  
