@@ -52,6 +52,7 @@ I actively focus on clean architecture, performance optimization, and security b
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io" />
 </p>
 
 ### Databases
